@@ -1,4 +1,4 @@
-number = float(input("Введіть число: "))
+number = float(input("Enter number: "))
 percentage = float(input("Введіть відсоток: "))
 result = (number * percentage) / 100
 
